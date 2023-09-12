@@ -1,9 +1,11 @@
 # IFPEDIA
 IFPédia é o repositório de documentos acadêmicos do IFG, oferecendo acesso a uma variedade de recursos acadêmicos, como artigos, teses e materiais didáticos, promovendo a disseminação do conhecimento e a colaboração entre pesquisadores.​
-## Listagem de Funcionalidades: 
-#Listagem de requisitos.pdf(https://github.com/JuracyNeto/IFPEDIA/files/12591523/Documentacao.de.requisitos.pdf
-## Modelo Geral do Progeto (Fluxograma):
-#Fluxograma (https://github.com/JuracyNeto/IFPEDIA/assets/91094257/ba8136b2-dd37-4770-ad8e-06109277a3c4)
+# Listagem de Funcionalidades: 
+## Listagem de requisitos.pdf
+https://github.com/JuracyNeto/IFPEDIA/files/12591523/Documentacao.de.requisitos.pdf
+# Modelo Geral do Progeto (Fluxograma):
+## Fluxograma
+ https://github.com/JuracyNeto/IFPEDIA/assets/91094257/ba8136b2-dd37-4770-ad8e-06109277a3c4
 ## Planejamento por funcionalidades:
 # Fase 1 - Desenvolvimento Básico:​
 
